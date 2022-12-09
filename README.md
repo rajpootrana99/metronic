@@ -9,3 +9,4 @@
 - For any theme related questions please contact our [Theme Support](//keenthemes.com/theme-support/).
 
 Happy coding with Metronic!
+"# metronic" 
